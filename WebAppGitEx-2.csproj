@@ -71,6 +71,8 @@
     <Content Include="Contact.html" />
     <Content Include="Global.asax" />
     <Content Include="Index.html" />
+    <Content Include="OurStyle.css" />
+    <Content Include="TextFile1.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
