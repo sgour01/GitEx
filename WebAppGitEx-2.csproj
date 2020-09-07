@@ -70,7 +70,9 @@
     <Content Include="About.html" />
     <Content Include="Contact.html" />
     <Content Include="Global.asax" />
+    <Content Include="IDr\IPage.html" />
     <Content Include="Index.html" />
+    <Content Include="OurDr\OurPage.html" />
     <Content Include="OurStyle.css" />
     <Content Include="TextFile1.txt" />
     <Content Include="Web.config" />
